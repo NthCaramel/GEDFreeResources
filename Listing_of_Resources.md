@@ -3,7 +3,7 @@
 ## Reasoning thtrough Language Arts
 
 | Name of Resource | Link | Type of Resource | Remarks |
-|---------|--------|-------|
+|---------|--------|-------| -------|
 | Test Prep Champions - Language Arts | https://www.youtube.com/watch?v=8RlPXBKUwfM&list=PLD6T1iaQaQdbDOvBxhuY4rqPUW4fu1iA7 | Video | N.A. |
 | Study.com | https://study.com/academy/exam/course/ged-reasoning-through-language-arts.html?adkey=0a6a0e0fa9924c3792c4eb476c996dd3 | Practice Questions | N.A. |
 | | | |
