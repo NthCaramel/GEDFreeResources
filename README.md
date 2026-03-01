@@ -6,7 +6,7 @@ Please note that I am not endorsing the effectiveness of any of these resources.
 # Index 
 
 1. [Free Resource Listing](Listing_of_Resources.md) - Listing of free online resources. Note that as I am international to the USA, this listing will focus on resources accessible to international students.
-2. [US based resources](US_based_resources.md) - This is the listing of US based resources, by state. As there are 50 states, this is a current work in progress.
+2. [US based resources](US_based_resources.md) - This is the listing of US based resources, by state. As there are 50 states, this is a current work in progress for my side.
 3. [Other Tips](Other_Tips.md) - Other tips that I have come across while researching.
 
 # Anything else that I should note?
